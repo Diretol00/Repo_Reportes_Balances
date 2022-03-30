@@ -1,0 +1,85 @@
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\bin\Debug\CRUD_Balances.exe.config
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\bin\Debug\CRUD_Balances.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\bin\Debug\CRUD_Balances.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.BalanceDetails.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.Main.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.Properties.Resources.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.pdb
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.BalanceDetails.resources
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.Main.resources
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.Properties.Resources.resources
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.exe
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.pdb
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\CRUD_Balances.exe.config
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\CRUD_Balances.exe
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\CRUD_Balances.pdb
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\EnvDTE.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\stdole.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.FormReporteBalances.resources
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\CRUD_Balances.csproj.CopyComplete
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\RdlCompile.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\CRUD_Balances-main\obj\Debug\RdlCompile.compiled
